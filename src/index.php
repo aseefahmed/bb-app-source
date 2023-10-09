@@ -10,7 +10,7 @@
 </head>
   <body style="background-color: #8900F2">
 	<div  id="heading" >
-         <h1 class="stroke-text">BLOCK BUSTER</h1> 
+         <h1 class="stroke-text">BLOCK BUSTER v2</h1> 
     </div>
 <?php
 
